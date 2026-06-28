@@ -33,13 +33,13 @@ MQTT digunakan sebagai protokol komunikasi data. Melalui MQTT, data kelembapan t
 ### Dokumentasi 1
 
 <p align="center">
-  <img src="WhatsApp Image 2026-06-22 at 7.22.34 PM.jpg" width="500">
+  <img src="dokumentasi (1).JPEG" width="500">
 </p>
 
 ### Dokumentasi 2
 
 <p align="center">
-  <img src="WhatsApp Image 2026-06-26 at 8.46.05 PM.jpg" width="500">
+  <img src="dokumentasi (2).JPEG" width="500">
 </p>
 
 ### Dokumentasi 3

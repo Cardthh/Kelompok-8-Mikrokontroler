@@ -33,7 +33,7 @@ MQTT digunakan sebagai protokol komunikasi data. Melalui MQTT, data kelembapan t
 ### Dokumentasi 1
 
 <p align="center">
-  <img src="dokumentasi (1).JPEG" width="500">
+  <img src="dokumentasi (1).jpeg" width="500">
 </p>
 
 ### Dokumentasi 2
